@@ -1,3 +1,5 @@
+package Task1
+
 fun main () {
     println("Введите число")
     var input = readln().toInt()
